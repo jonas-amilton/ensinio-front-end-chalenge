@@ -1,46 +1,39 @@
-# Getting Started with Create React App
+# Teste técnico assíncrono
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+👀 A interface
+Pixels importam pra gente. 😊
+https://www.figma.com/file/M0jy5rqNumytQKuKZYhgPS/Ensinio-Frontend-Challenge
+💡 A proposta
+Você foi encarregado de dar os primeiros passos em uma aplicação que tende a escalar, sendo responsável por desenvolver a "seção hero" de uma tela institucional (interface demonstrada acima), utilizando HTML, CSS, JavaScript ou TypeScript (gostamos de TS, mas a escolha é sua) e React.js ou Next.js (gostamos de Next.js, mas a escolha é sua). 😃
+Encorajamos o uso de bibliotecas CSS-in-JS como styled-components. Para as finalidades deste teste, não gostaríamos de ver você usando Bootstrap, Tailwind CSS e congêneres.
+Você deve estar preparado para justificar eventuais decisões técnicas.
+Para a seção abaixo (vide imagem), os títulos e descrições dos itens devem ser requisitados de uma API fictícia. Utilize o json-server para simular uma API com o arquivo "db.json" contido neste repositório.
 
-## Available Scripts
+<img src="public/images/img-teste.png">
 
-In the project directory, you can run:
+Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca do seu projeto. Inclua instruções para a execução da aplicação, detalhes acerca da estrutura do projeto e comentários que julgar pertinentes à avaliação.
+🎯 Requisitos do projeto
+• A interface deve ser 100% responsiva;
+• Usabilidade impecável (botões devem ter cursor do tipo pointer, feedbacks visuais de hover, etc);
+• Requisitar dados (presentes no arquivo "db.json") de uma API fictícia utilizando json-server;
+• Implementar a funcionalidade de internacionalização (todos os textos da aplicação devem possuir variações para os idiomas português, inglês e espanhol; a seleção do idioma, por parte do usuário, deve ser persistida);
+• Hospedar a aplicação, permitindo o acesso através de uma URL (você pode usar plataformas gratuitas, como Vercel, Netlify, Heroku e afins);
+• Fornecer uma documentação, incluindo instruções para a execução da sua aplicação.
 
-### `npm start`
+👏 Diferenciais
+• Testes unitários
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+📄 Critérios de avaliação
+• A qualidade do seu código;
+• O cumprimento dos requisitos;
+• A fidelidade da interface codificada;
+• A estrutura do seu projeto: esperamos ver componentização coesa, reuso, etc;
+• A responsividade da aplicação: deve adaptar-se com maestria para absolutamente qualquer tamanho de tela, desde pequenos smartphones até monitores ultrawide;
+• Seu empenho: não tem problema se algo não sair como desejado, mas tente! 😊
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+🔒 Autoria
+O projeto desenvolvido durante o teste em questão não será utilizado para quaisquer outros fins além da sua avaliação.
+⚠️ Atenção
+Não serão avaliados testes técnicos cuja aplicação não esteja hospedada. O acesso deve estar disponível através de uma URL (você pode usar plataformas gratuitas, como Vercel, Netlify, Heroku e afins), que obrigatoriamente deve ser informada na documentação e email de entrega.
+📧 Sobre a entrega
+Pedimos que, por gentileza, entregue o teste em até 6 dias a partir do recebimento das instruções (ou seja, até dia 23, terça-feira, ás 15h) respondendo à essa mesma conversa de email onde enviamos o link do desafio e incluindo o link de um repositório privado no GitHub. Neste repositório, adicione como colaboradores os usuários @ensiniodevfront (front@ensinio.com) e @silviow (silvio.mms2016@gmail.com). No email, envie também o link para preview online da aplicação. :)
