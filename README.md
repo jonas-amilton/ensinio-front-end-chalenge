@@ -9,7 +9,7 @@ Encorajamos o uso de bibliotecas CSS-in-JS como styled-components. Para as final
 Você deve estar preparado para justificar eventuais decisões técnicas.
 Para a seção abaixo (vide imagem), os títulos e descrições dos itens devem ser requisitados de uma API fictícia. Utilize o json-server para simular uma API com o arquivo "db.json" contido neste repositório.
 
-<img src="public/images/img-teste.png">
+<img src="images/img-teste.png">
 
 Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca do seu projeto. Inclua instruções para a execução da aplicação, detalhes acerca da estrutura do projeto e comentários que julgar pertinentes à avaliação.
 🎯 Requisitos do projeto
